@@ -36,7 +36,7 @@
   <img height="150" align="center" src="https://streak-stats.demolab.com?Ayyoubbenrguig&theme=transparent&card_width=400&card_height=150" />
 </a>
 <a href="https://github.com/Ayyoubbenrguig">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=elbarhichi&theme=transparent&show_icons=true&hide=issues&show=prs_merged_percentage&rank_icon=github&include_all_commits=true" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Ayyoubbenrguig&theme=transparent&show_icons=true&hide=issues&show=prs_merged_percentage&rank_icon=github&include_all_commits=true" />
 </a>
 </div>
 
