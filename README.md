@@ -52,7 +52,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayyoub-benrguig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elbarhichi" height="30" width="40" /></a>
-<a href="https://www.benrguig.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Website" height="30" width="40" />
-  </a>
+<a href="https://www.benrguig.com" target="blank"><img align="center" src="https://www.pngegg.com/fr/search?q=site+web" alt="www.benrguig.com" height="30" width="40"/></a>
 </p>
 
