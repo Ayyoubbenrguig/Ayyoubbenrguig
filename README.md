@@ -21,7 +21,7 @@
 <h1 align="left">My contributions </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ayyoubbenrguig/Ayyoubbenrguig/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/elbarhichi/elbarhichi/output/snake.svg" alt="Snake animation" />
 </div>
 
 
